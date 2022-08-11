@@ -1,12 +1,11 @@
 #include<stdio.h>
 main() {
-
-	biggest3();
-	biggest2();
-	fibanaci();
-	palindrome();
-	sortingnumber();
+	biggest();
 	factorial();
 	reverse();
-	sumoftwo();
+	palindrome();
+	biggest3();
+	sumof2nos();
+	fibonacci();
+	sorting();
 }
